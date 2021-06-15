@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @brotherbotany
+- 👀 I’m interested in: Botany, Web Design, Game Development
+- 🌱 I’m currently learning: GDScript, Java
+- 💞️ I’m looking to collaborate on: Game Design, GDScript
+- 📫 How to reach me: brotherbotany@gmail.com
