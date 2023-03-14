@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @brotherbotany
-- 👀 I’m interested in: Botany, Web Design, Game Development
-- 🌱 I’m currently learning: GDScript, Java
-- 💞️ I’m looking to collaborate on: Game Design, GDScript
+- 👀 I’m interested in: Botany and Game Development
+- 🌱 I’m currently learning: C# and Python
+- 😎 I'm already proficient in: Javascript, HTML, and CSS
+- 💞️ I’m looking to collaborate on: Game Design, C#
 - 📫 How to reach me: brotherbotany@gmail.com
